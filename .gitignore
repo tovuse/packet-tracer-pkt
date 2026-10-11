@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+# decrypted reference dumps and generated artifacts
+refs/
+pt_refs/
+*.pkt
+*.xml
+!examples/**
